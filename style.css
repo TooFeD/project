@@ -1,0 +1,11 @@
+.container {
+    width: 900px;
+    margin: auto;
+}
+
+ul li{
+    float: left;
+    display: block;
+    margin: 0 5px;
+}
+
